@@ -1,0 +1,56 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.6rem;
+  font-family: 'Ubuntu',sans-serif;
+
+}
+
+
+.main {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.6rem;
+  font-family: 'Ubuntu',sans-serif;
+
+}
+
+p{
+    
+    font-size: 1rem;
+    width: 70%;
+    
+}
+
+h1, h2{
+    color: #AD6A1D;
+    
+}
+
+.card{
+    width: 35%;
+    font-size: 0.5rem;
+    padding: 0.5rem;
+}
+
+img {
+  padding: 0.5rem;
+  
+}
+
+.cards{
+    width: 100%;
+    display: flex;
+}
+
+.callout{
+        font-size: 2rem;
+    width: 80%;
+    padding: 2rem;
+    border: 5px solid #555;
+border-radius: 4px;
+
+    
+}

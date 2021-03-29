@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5970789a.chunk.css",
+    "main.js": "/static/js/main.adc28074.chunk.js",
+    "main.js.map": "/static/js/main.adc28074.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2df13cd9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2df13cd9.js.map",
+    "static/js/2.9731caad.chunk.js": "/static/js/2.9731caad.chunk.js",
+    "static/js/2.9731caad.chunk.js.map": "/static/js/2.9731caad.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.16bc86f319726e90491495a65201fc5a.js": "/precache-manifest.16bc86f319726e90491495a65201fc5a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5970789a.chunk.css.map": "/static/css/main.5970789a.chunk.css.map",
+    "static/js/2.9731caad.chunk.js.LICENSE": "/static/js/2.9731caad.chunk.js.LICENSE",
+    "static/media/noun_peace of mind_1910859.png": "/static/media/noun_peace of mind_1910859.96c98b63.png",
+    "static/media/tidesandtravels1.png": "/static/media/tidesandtravels1.95efb793.png",
+    "static/media/travel_Advisor.png": "/static/media/travel_Advisor.709aa990.png",
+    "static/media/value_Added.png": "/static/media/value_Added.8c493a4d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2df13cd9.js",
+    "static/js/2.9731caad.chunk.js",
+    "static/css/main.5970789a.chunk.css",
+    "static/js/main.adc28074.chunk.js"
+  ]
+}
